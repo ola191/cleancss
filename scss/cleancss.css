@@ -1,0 +1,22 @@
+.cc-button {
+  padding: 15px;
+}
+.cc-button-primary {
+  background-color: #4b8ed6;
+}
+.cc-button-secondary {
+  background-color: #6c757d;
+}
+.cc-button-success {
+  background-color: #28a745;
+}
+.cc-button-danger {
+  background-color: #dc3545;
+}
+.cc-button-warning {
+  background-color: #ffc107;
+  color: #212529;
+}
+.cc-button-info {
+  background-color: #17a2b8;
+}
